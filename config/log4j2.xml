@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="off">
+
+	<properties>
+		<!-- Console print format -->
+		<property name="console_pattern">%highlight{[%d{MMM d HH:mm:ss.SSS}][%c][%T]-%m%n}</property>
+	</properties>
+
+	<Appenders>
+		<!-- <Syslog name="syslog" host="10.1.9.101" port="514" protocol="UDP"/> -->
+		<Socket name="local_syslog" host="localhost" port="514" protocol="UDP">
+			<PatternLayout pattern="&lt;%level{TRACE=135, DEBUG=135, INFO=134, WARN=132, ERROR=131, Fatal=130}&gt;%d{MMM d HH:mm:ss} ${hostName} [%T]-%m%n"/>
+		</Socket>
+		<Console name="CONSOLE" target="SYSTEM_ERR">
+			<PatternLayout>
+				<Pattern>${console_pattern}</Pattern>
+			</PatternLayout>
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="com" level="debug">
+			<!-- <Appender-ref ref="syslog" level="warn"/> -->
+			<Appender-ref ref="local_syslog" level="debug"/>
+			<Appender-ref ref="CONSOLE" level="debug"/>
+		</Logger>
+		<root level="error">
+		</root>
+	</Loggers>
+</Configuration>
