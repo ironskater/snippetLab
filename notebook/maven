@@ -1,0 +1,5 @@
+# Maven execution
+mvn exec:java -Dexec.mainClass=@1 -Dlog4j.configurationFile=@2 -Dexec.cleanupDaemonThreads=false
+
+@1: class name
+@2: log4j2 config file directory
