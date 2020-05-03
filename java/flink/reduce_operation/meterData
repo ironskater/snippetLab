@@ -1,0 +1,16 @@
+20200101,meterA,typeA,20
+20200101,meterA,typeB,24
+20200102,meterA,typeA,25
+20200102,meterA,typeB,35
+20200201,meterA,typeA,120
+20200201,meterA,typeB,124
+20200202,meterA,typeA,225
+20200202,meterA,typeB,335
+20200101,meterB,typeA,200
+20200101,meterB,typeB,240
+20200102,meterB,typeA,255
+20200102,meterB,typeB,355
+20200201,meterB,typeA,2
+20200201,meterB,typeB,4
+20200202,meterB,typeA,5
+20200202,meterB,typeB,15
