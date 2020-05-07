@@ -42,6 +42,8 @@ public class DiscardServer
 		 */
 		EventLoopGroup bossGroup = new NioEventLoopGroup(); // if no parameter, default value is 2*CPU cores
 		EventLoopGroup workerGroup = new NioEventLoopGroup();
+		ChannelInitializer<SocketChannel> channelHandler =
+			new WorkerChannelInitializer();
 
 		try
 		{
@@ -55,19 +57,7 @@ public class DiscardServer
 							// we specify to use the NioServerSocketChannel class which is used to instantiate a new Channel to accept incoming connections.
 							.channel(NioServerSocketChannel.class)
 							// The childHandler specified here will always be evaluated by a newly accepted Channel.
-							.childHandler(
-								// ChannelInitializer is purposed to help a user configure a new Channel
-								new ChannelInitializer<SocketChannel>()
-								{
-									@Override
-									public void initChannel(SocketChannel ch)
-									{
-										System.out.println(
-											String.format(	"3)[%d] Creating a channel",
-															Thread.currentThread().getId()));
-										ch.pipeline().addLast(new DiscardServerHandler());
-									}
-								})
+							.childHandler(channelHandler)
 							// option() is for the NioServerSocketChannel that accepts incoming connections.
 							.option(ChannelOption.SO_BACKLOG,
 									128)
