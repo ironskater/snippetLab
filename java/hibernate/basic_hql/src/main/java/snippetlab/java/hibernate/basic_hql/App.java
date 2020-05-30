@@ -73,6 +73,14 @@ public class App
 
 			session.getTransaction().commit();
 
+			// update ----------------------------------------------------------
+			session = factory.getCurrentSession();
+			session.beginTransaction();
+
+			session.createQuery("update Student set email = 'updateEmail' where firstName = 'hyde2'").executeUpdate();
+
+			session.getTransaction().commit();
+
 			System.out.println("Done!!!!");
 		}
 		finally {
