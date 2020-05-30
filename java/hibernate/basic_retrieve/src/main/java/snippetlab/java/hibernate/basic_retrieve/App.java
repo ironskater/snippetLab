@@ -29,10 +29,7 @@ public class App
 		try {
 			// create a student object
 			System.out.println("Creating new student object...");
-
 			Student tempStudent1 = new Student("hyde1", "firstHibernate", "yaya");
-			Student tempStudent2 = new Student("hyde2", "secondHibernate", "jaja");
-			Student tempStudent3 = new Student("hyde3", "thirdHibernate", "kaka");
 
 			// start a transaction
 			session.beginTransaction();
@@ -40,13 +37,29 @@ public class App
 			// save the student object
 			System.out.println("Saving the student...");
 			session.save(tempStudent1);
-			session.save(tempStudent2);
-			session.save(tempStudent3);
 
 			// commit transaction
+			// After executing save(), DB still not has value until completing commit()
+			session.getTransaction().commit();
+
+			// -----------------------------------------------------------------
+
+			// find studenet by id
+			session = factory.getCurrentSession();
+
+			// Different to Normal SQL, in hibernate, even though doing querying, it still need a transaction.
+			session.beginTransaction();
+
+			System.out.println("find myStudent by Id: " + tempStudent1.getId());
+			Student myStudent = session.get(Student.class,
+											tempStudent1.getId());
+
+			// Different to save()
+			// myStudent already has values before doing commit()
 			session.getTransaction().commit();
 
 			System.out.println("Done!!!!");
+			System.out.println("myStudent: " + myStudent.toString());
 		}
 		finally {
 			factory.close();
