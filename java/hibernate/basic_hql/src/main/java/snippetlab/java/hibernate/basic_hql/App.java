@@ -63,13 +63,11 @@ public class App
 			}
 
 			// Query specified
-			theStudents = session.createQuery("from Student s where s.lastName = 'secondHibernate'").getResultList();
-			for(Student stu : theStudents)
-			{
-				System.out.println("\n\n=========================================");
-				System.out.println(stu.toString());
-				System.out.println("=========================================");
-			}
+			Student theStudent = (Student)session.createQuery("from Student s where s.lastName = 'secondHibernate'").getSingleResult();
+
+			System.out.println("\n\n=========================================");
+			System.out.println(theStudent.toString());
+			System.out.println("=========================================");
 
 			session.getTransaction().commit();
 
