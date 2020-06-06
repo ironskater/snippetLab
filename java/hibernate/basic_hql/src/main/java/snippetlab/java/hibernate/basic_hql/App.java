@@ -21,7 +21,7 @@ public class App
 		 * Refer to https://stackoverflow.com/questions/47069676/could-not-locate-cfg-xml-for-hibernate
 		 */
 		SessionFactory factory = new Configuration()
-									.configure()
+									.configure("hibernate.cfg.xml")
 									.addAnnotatedClass(Student.class)
 									.buildSessionFactory();
 
