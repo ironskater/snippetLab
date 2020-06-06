@@ -1,8 +1,5 @@
 package snippetlab.java.hibernate.basic_create;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -22,7 +19,7 @@ public class App
 		 * Refer to https://stackoverflow.com/questions/47069676/could-not-locate-cfg-xml-for-hibernate
 		 */
 		SessionFactory factory = new Configuration()
-									.configure()
+									.configure("hibernate.cfg.xml")
 									.addAnnotatedClass(Student.class)
 									.buildSessionFactory();
 
@@ -53,27 +50,6 @@ public class App
 		}
 		finally {
 			factory.close();
-		}
-	}
-
-	private void basicJdbcConnectionTest()
-	{
-		String jdbcUrl = "jdbc:mysql://localhost:3306/hb_student_tracker";
-		String user = "hyde";
-		String pw = "hyde";
-
-		try
-		{
-			System.out.println("Connecting to Database: " + jdbcUrl);
-
-			Connection myConn =
-				DriverManager.getConnection(jdbcUrl, user, pw);
-
-			System.out.println("Connnection successful!!!");
-		}
-		catch(Exception ex)
-		{
-			ex.printStackTrace();
 		}
 	}
 }
