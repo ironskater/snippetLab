@@ -11,17 +11,16 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<flink.version>1.10.0</flink.version>
-		<spring-boot.version>2.2.6.RELEASE</spring-boot.version>
-		<mysql-connector-java.version>8.0.20</mysql-connector-java.version>
+
 		<hibernate-core.version>5.4.17.Final</hibernate-core.version>
+		<mysql-connector-java.version>8.0.20</mysql-connector-java.version>
 	</properties>
 
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>${spring-boot.version}</version>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>${hibernate-core.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
