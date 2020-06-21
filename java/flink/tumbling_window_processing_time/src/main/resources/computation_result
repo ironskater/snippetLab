@@ -1,0 +1,724 @@
+=========================== currentResult: (June,Category5,Bat,12,1)
+=========================== previousResult: (June,Category4,Perfume,10,1)
+
+=========================== currentResult: (June,,,22,2)
+=========================== previousResult: (June,Category5,Bat,41,1)
+
+=========================== currentResult: (June,,,63,3)
+=========================== previousResult: (June,Category4,Shirt,38,1)
+
+4> (July,Category1,Television,50,1)
+1> (June,,,101,4)
+=========================== currentResult: (August,Category5,PC,32,1)
+=========================== previousResult: (August,Category4,Pendrive,42,1)
+
+=========================== currentResult: (June,Category2,Laptop,39,1)
+=========================== previousResult: (June,Category1,PC,14,1)
+
+=========================== currentResult: (June,,,53,2)
+=========================== previousResult: (June,Category2,Tablet,41,1)
+
+=========================== currentResult: (August,,,74,2)
+=========================== previousResult: (August,Category1,Shirt,34,1)
+
+=========================== currentResult: (August,,,108,3)
+=========================== previousResult: (August,Category5,Socks,38,1)
+
+=========================== currentResult: (July,Category5,Steamer,27,1)
+=========================== previousResult: (July,Category1,Pendrive,12,1)
+
+=========================== currentResult: (June,,,94,3)
+=========================== previousResult: (June,Category2,Shirt,20,1)
+
+=========================== currentResult: (June,,,114,4)
+=========================== previousResult: (June,Category2,Watch,17,1)
+
+=========================== currentResult: (August,,,146,4)
+=========================== previousResult: (August,Category2,PC,16,1)
+
+=========================== currentResult: (August,,,162,5)
+=========================== previousResult: (August,Category5,Steamer,50,1)
+
+=========================== currentResult: (July,,,39,2)
+=========================== previousResult: (July,Category2,Bucket,11,1)
+
+=========================== currentResult: (August,,,212,6)
+=========================== previousResult: (August,Category3,Jewelry,24,1)
+
+=========================== currentResult: (August,,,236,7)
+=========================== previousResult: (August,Category1,Mouse,35,1)
+
+=========================== currentResult: (August,,,271,8)
+=========================== previousResult: (August,Category1,Watch,39,1)
+
+=========================== currentResult: (August,,,310,9)
+=========================== previousResult: (August,Category1,Bucket,45,1)
+
+=========================== currentResult: (July,,,50,3)
+=========================== previousResult: (July,Category1,RAM,34,1)
+
+=========================== currentResult: (June,,,131,5)
+=========================== previousResult: (June,Category4,Steamer,23,1)
+
+=========================== currentResult: (June,,,154,6)
+=========================== previousResult: (June,Category1,Pendrive,41,1)
+
+=========================== currentResult: (July,,,84,4)
+=========================== previousResult: (July,Category3,Steamer,22,1)
+
+=========================== currentResult: (August,,,355,10)
+=========================== previousResult: (August,Category1,RAM,10,1)
+
+=========================== currentResult: (July,,,106,5)
+=========================== previousResult: (July,Category1,RAM,17,1)
+
+=========================== currentResult: (June,,,195,7)
+=========================== previousResult: (June,Category3,Laptop,13,1)
+
+=========================== currentResult: (June,,,208,8)
+=========================== previousResult: (June,Category4,Steamer,34,1)
+
+=========================== currentResult: (August,,,365,11)
+=========================== previousResult: (August,Category2,Bucket,48,1)
+
+=========================== currentResult: (August,,,413,12)
+=========================== previousResult: (August,Category5,Shirt,41,1)
+
+=========================== currentResult: (June,,,242,9)
+=========================== previousResult: (June,Category3,Jeans,47,1)
+
+=========================== currentResult: (June,,,289,10)
+=========================== previousResult: (June,Category1,Shoes,11,1)
+
+=========================== currentResult: (July,,,123,6)
+=========================== previousResult: (July,Category2,Watch,39,1)
+
+=========================== currentResult: (August,,,454,13)
+=========================== previousResult: (August,Category5,Shirt,20,1)
+
+=========================== currentResult: (June,,,300,11)
+=========================== previousResult: (June,Category3,Watch,18,1)
+
+=========================== currentResult: (June,,,318,12)
+=========================== previousResult: (June,Category1,Mouse,42,1)
+
+=========================== currentResult: (August,,,474,14)
+=========================== previousResult: (August,Category5,Bat,17,1)
+
+=========================== currentResult: (August,,,491,15)
+=========================== previousResult: (August,Category3,Phone,12,1)
+
+=========================== currentResult: (August,,,503,16)
+=========================== previousResult: (August,Category3,Mouse,45,1)
+
+=========================== currentResult: (August,,,548,17)
+=========================== previousResult: (August,Category2,Bat,29,1)
+
+=========================== currentResult: (August,,,577,18)
+=========================== previousResult: (August,Category2,Shoes,30,1)
+
+=========================== currentResult: (June,,,360,13)
+=========================== previousResult: (June,Category4,PC,32,1)
+
+4> (July,,,162,7)
+1> (August,,,607,19)
+1> (June,,,392,14)
+=========================== currentResult: (June,Category3,Tablet,34,1)
+=========================== previousResult: (June,Category1,Socks,22,1)
+
+=========================== currentResult: (June,,,56,2)
+=========================== previousResult: (June,Category5,Shoes,22,1)
+
+=========================== currentResult: (June,,,78,3)
+=========================== previousResult: (June,Category1,Laptop,40,1)
+
+=========================== currentResult: (July,Category2,Pendrive,43,1)
+=========================== previousResult: (July,Category4,Bottle,42,1)
+
+=========================== currentResult: (July,,,85,2)
+=========================== previousResult: (July,Category4,Bottle,42,1)
+
+=========================== currentResult: (July,,,127,3)
+=========================== previousResult: (July,Category5,Jeans,44,1)
+
+=========================== currentResult: (June,,,118,4)
+=========================== previousResult: (June,Category1,Shoes,11,1)
+
+=========================== currentResult: (July,,,171,4)
+=========================== previousResult: (July,Category3,Shoes,25,1)
+
+=========================== currentResult: (June,,,129,5)
+=========================== previousResult: (June,Category5,Bottle,18,1)
+
+=========================== currentResult: (August,Category1,Shoes,33,1)
+=========================== previousResult: (August,Category2,Jewelry,47,1)
+
+=========================== currentResult: (August,,,80,2)
+=========================== previousResult: (August,Category4,Watch,38,1)
+
+=========================== currentResult: (July,,,196,5)
+=========================== previousResult: (July,Category3,Socks,31,1)
+
+=========================== currentResult: (July,,,227,6)
+=========================== previousResult: (July,Category5,Watch,44,1)
+
+=========================== currentResult: (July,,,271,7)
+=========================== previousResult: (July,Category4,Bat,20,1)
+
+=========================== currentResult: (June,,,147,6)
+=========================== previousResult: (June,Category5,Laptop,14,1)
+
+=========================== currentResult: (June,,,161,7)
+=========================== previousResult: (June,Category5,Jeans,33,1)
+
+=========================== currentResult: (July,,,291,8)
+=========================== previousResult: (July,Category2,Tablet,25,1)
+
+=========================== currentResult: (August,,,118,3)
+=========================== previousResult: (August,Category5,Bucket,45,1)
+
+=========================== currentResult: (July,,,316,9)
+=========================== previousResult: (July,Category5,Bucket,36,1)
+
+=========================== currentResult: (June,,,194,8)
+=========================== previousResult: (June,Category4,Tablet,22,1)
+
+=========================== currentResult: (July,,,352,10)
+=========================== previousResult: (July,Category5,Bucket,44,1)
+
+=========================== currentResult: (July,,,396,11)
+=========================== previousResult: (July,Category4,Bat,25,1)
+
+=========================== currentResult: (June,,,216,9)
+=========================== previousResult: (June,Category3,Shoes,16,1)
+
+=========================== currentResult: (June,,,232,10)
+=========================== previousResult: (June,Category3,Bat,27,1)
+
+=========================== currentResult: (July,,,421,12)
+=========================== previousResult: (July,Category2,Socks,32,1)
+
+=========================== currentResult: (August,,,163,4)
+=========================== previousResult: (August,Category2,Bucket,50,1)
+
+=========================== currentResult: (July,,,453,13)
+=========================== previousResult: (July,Category3,Steamer,32,1)
+
+=========================== currentResult: (July,,,485,14)
+=========================== previousResult: (July,Category5,Socks,37,1)
+
+=========================== currentResult: (June,,,259,11)
+=========================== previousResult: (June,Category2,Bat,12,1)
+
+=========================== currentResult: (June,,,271,12)
+=========================== previousResult: (June,Category5,Bucket,27,1)
+
+=========================== currentResult: (August,,,213,5)
+=========================== previousResult: (August,Category4,Mouse,37,1)
+
+=========================== currentResult: (July,,,522,15)
+=========================== previousResult: (July,Category4,Socks,22,1)
+
+=========================== currentResult: (June,,,298,13)
+=========================== previousResult: (June,Category2,Socks,28,1)
+
+=========================== currentResult: (August,,,250,6)
+=========================== previousResult: (August,Category5,Mouse,21,1)
+
+=========================== currentResult: (June,,,326,14)
+=========================== previousResult: (June,Category3,Watch,12,1)
+
+=========================== currentResult: (August,,,271,7)
+=========================== previousResult: (August,Category1,PC,46,1)
+
+=========================== currentResult: (August,,,317,8)
+=========================== previousResult: (August,Category2,Shoes,15,1)
+
+1> (June,,,338,15)
+4> (July,,,544,16)
+1> (August,,,332,9)
+=========================== currentResult: (August,Category2,PC,13,1)
+=========================== previousResult: (August,Category3,Jewelry,18,1)
+
+=========================== currentResult: (August,,,31,2)
+=========================== previousResult: (August,Category3,Pendrive,34,1)
+
+=========================== currentResult: (August,,,65,3)
+=========================== previousResult: (August,Category1,Phone,20,1)
+
+=========================== currentResult: (June,Category1,Steamer,37,1)
+=========================== previousResult: (June,Category1,Perfume,16,1)
+
+=========================== currentResult: (June,,,53,2)
+=========================== previousResult: (June,Category1,Mouse,46,1)
+
+=========================== currentResult: (August,,,85,4)
+=========================== previousResult: (August,Category4,Bat,50,1)
+
+=========================== currentResult: (August,,,135,5)
+=========================== previousResult: (August,Category2,Bat,14,1)
+
+=========================== currentResult: (August,,,149,6)
+=========================== previousResult: (August,Category2,Perfume,41,1)
+
+=========================== currentResult: (July,Category3,Perfume,20,1)
+=========================== previousResult: (July,Category3,PC,23,1)
+
+=========================== currentResult: (July,,,43,2)
+=========================== previousResult: (July,Category5,RAM,49,1)
+
+=========================== currentResult: (August,,,190,7)
+=========================== previousResult: (August,Category2,Jewelry,38,1)
+
+=========================== currentResult: (July,,,92,3)
+=========================== previousResult: (July,Category3,PC,34,1)
+
+=========================== currentResult: (August,,,228,8)
+=========================== previousResult: (August,Category2,Mouse,35,1)
+
+=========================== currentResult: (August,,,263,9)
+=========================== previousResult: (August,Category2,Bottle,38,1)
+
+=========================== currentResult: (June,,,99,3)
+=========================== previousResult: (June,Category1,Pendrive,30,1)
+
+=========================== currentResult: (June,,,129,4)
+=========================== previousResult: (June,Category4,Jeans,14,1)
+
+=========================== currentResult: (August,,,301,10)
+=========================== previousResult: (August,Category1,Phone,43,1)
+
+=========================== currentResult: (August,,,344,11)
+=========================== previousResult: (August,Category3,Jeans,36,1)
+
+=========================== currentResult: (June,,,143,5)
+=========================== previousResult: (June,Category1,Bottle,49,1)
+
+=========================== currentResult: (August,,,380,12)
+=========================== previousResult: (August,Category1,Mouse,38,1)
+
+=========================== currentResult: (June,,,192,6)
+=========================== previousResult: (June,Category1,Bucket,23,1)
+
+=========================== currentResult: (August,,,418,13)
+=========================== previousResult: (August,Category5,Watch,31,1)
+
+=========================== currentResult: (August,,,449,14)
+=========================== previousResult: (August,Category3,Jewelry,15,1)
+
+=========================== currentResult: (June,,,215,7)
+=========================== previousResult: (June,Category3,Television,36,1)
+
+=========================== currentResult: (August,,,464,15)
+=========================== previousResult: (August,Category1,Steamer,46,1)
+
+=========================== currentResult: (August,,,510,16)
+=========================== previousResult: (August,Category4,RAM,42,1)
+
+=========================== currentResult: (July,,,126,4)
+=========================== previousResult: (July,Category1,Pendrive,38,1)
+
+=========================== currentResult: (June,,,251,8)
+=========================== previousResult: (June,Category2,Socks,28,1)
+
+=========================== currentResult: (August,,,552,17)
+=========================== previousResult: (August,Category4,Jewelry,29,1)
+
+=========================== currentResult: (August,,,581,18)
+=========================== previousResult: (August,Category5,Bat,11,1)
+
+=========================== currentResult: (July,,,164,5)
+=========================== previousResult: (July,Category5,Jeans,43,1)
+
+=========================== currentResult: (June,,,279,9)
+=========================== previousResult: (June,Category2,Mouse,34,1)
+
+=========================== currentResult: (August,,,592,19)
+=========================== previousResult: (August,Category4,Shirt,23,1)
+
+=========================== currentResult: (June,,,313,10)
+=========================== previousResult: (June,Category2,Shoes,34,1)
+
+=========================== currentResult: (August,,,615,20)
+=========================== previousResult: (August,Category1,Steamer,48,1)
+
+=========================== currentResult: (June,,,347,11)
+=========================== previousResult: (June,Category5,Socks,21,1)
+
+=========================== currentResult: (June,,,368,12)
+=========================== previousResult: (June,Category2,Television,44,1)
+
+4> (July,,,207,6)
+1> (June,,,412,13)
+1> (August,,,663,21)
+=========================== currentResult: (July,Category1,Shirt,28,1)
+=========================== previousResult: (July,Category2,Shirt,28,1)
+
+=========================== currentResult: (August,Category3,Shirt,25,1)
+=========================== previousResult: (August,Category1,Mouse,33,1)
+
+=========================== currentResult: (August,,,58,2)
+=========================== previousResult: (August,Category3,Laptop,48,1)
+
+=========================== currentResult: (August,,,106,3)
+=========================== previousResult: (August,Category2,Jeans,22,1)
+
+=========================== currentResult: (August,,,128,4)
+=========================== previousResult: (August,Category4,Shirt,45,1)
+
+=========================== currentResult: (July,,,56,2)
+=========================== previousResult: (July,Category2,Pendrive,26,1)
+
+=========================== currentResult: (August,,,173,5)
+=========================== previousResult: (August,Category1,Bottle,40,1)
+
+=========================== currentResult: (August,,,213,6)
+=========================== previousResult: (August,Category3,Tablet,47,1)
+
+=========================== currentResult: (July,,,82,3)
+=========================== previousResult: (July,Category5,Mouse,45,1)
+
+=========================== currentResult: (June,Category1,Pendrive,30,1)
+=========================== previousResult: (June,Category2,Socks,12,1)
+
+=========================== currentResult: (July,,,127,4)
+=========================== previousResult: (July,Category1,Jewelry,46,1)
+
+=========================== currentResult: (July,,,173,5)
+=========================== previousResult: (July,Category2,Television,40,1)
+
+=========================== currentResult: (July,,,213,6)
+=========================== previousResult: (July,Category5,Bucket,14,1)
+
+=========================== currentResult: (August,,,260,7)
+=========================== previousResult: (August,Category3,Pendrive,46,1)
+
+=========================== currentResult: (June,,,42,2)
+=========================== previousResult: (June,Category1,RAM,19,1)
+
+=========================== currentResult: (June,,,61,3)
+=========================== previousResult: (June,Category5,Jeans,35,1)
+
+=========================== currentResult: (August,,,306,8)
+=========================== previousResult: (August,Category4,Bat,45,1)
+
+=========================== currentResult: (July,,,227,7)
+=========================== previousResult: (July,Category3,Steamer,42,1)
+
+=========================== currentResult: (August,,,351,9)
+=========================== previousResult: (August,Category4,Tablet,14,1)
+
+=========================== currentResult: (July,,,269,8)
+=========================== previousResult: (July,Category5,Phone,44,1)
+
+=========================== currentResult: (August,,,365,10)
+=========================== previousResult: (August,Category1,Television,49,1)
+
+=========================== currentResult: (August,,,414,11)
+=========================== previousResult: (August,Category2,Jewelry,19,1)
+
+=========================== currentResult: (July,,,313,9)
+=========================== previousResult: (July,Category1,Shirt,16,1)
+
+=========================== currentResult: (July,,,329,10)
+=========================== previousResult: (July,Category3,Pendrive,46,1)
+
+=========================== currentResult: (August,,,433,12)
+=========================== previousResult: (August,Category2,Jewelry,50,1)
+
+=========================== currentResult: (August,,,483,13)
+=========================== previousResult: (August,Category3,Tablet,17,1)
+
+=========================== currentResult: (July,,,375,11)
+=========================== previousResult: (July,Category5,Watch,21,1)
+
+=========================== currentResult: (July,,,396,12)
+=========================== previousResult: (July,Category5,Television,35,1)
+
+=========================== currentResult: (June,,,96,4)
+=========================== previousResult: (June,Category4,Pendrive,31,1)
+
+=========================== currentResult: (August,,,500,14)
+=========================== previousResult: (August,Category3,Television,27,1)
+
+=========================== currentResult: (August,,,527,15)
+=========================== previousResult: (August,Category4,Jeans,10,1)
+
+=========================== currentResult: (June,,,127,5)
+=========================== previousResult: (June,Category1,Shirt,36,1)
+
+=========================== currentResult: (July,,,431,13)
+=========================== previousResult: (July,Category1,Shirt,33,1)
+
+=========================== currentResult: (August,,,537,16)
+=========================== previousResult: (August,Category5,Phone,35,1)
+
+=========================== currentResult: (June,,,163,6)
+=========================== previousResult: (June,Category5,Laptop,27,1)
+
+=========================== currentResult: (June,,,190,7)
+=========================== previousResult: (June,Category4,Shirt,28,1)
+
+=========================== currentResult: (August,,,572,17)
+=========================== previousResult: (August,Category2,Bat,31,1)
+
+1> (August,,,603,18)
+1> (June,,,218,8)
+4> (July,,,464,14)
+=========================== currentResult: (August,Category5,Bucket,47,1)
+=========================== previousResult: (August,Category1,Bottle,22,1)
+
+=========================== currentResult: (August,,,69,2)
+=========================== previousResult: (August,Category2,Shirt,23,1)
+
+=========================== currentResult: (July,Category3,Bucket,42,1)
+=========================== previousResult: (July,Category2,Bottle,21,1)
+
+=========================== currentResult: (June,Category4,Watch,31,1)
+=========================== previousResult: (June,Category4,Shirt,29,1)
+
+=========================== currentResult: (June,,,60,2)
+=========================== previousResult: (June,Category1,Watch,36,1)
+
+=========================== currentResult: (June,,,96,3)
+=========================== previousResult: (June,Category4,Television,40,1)
+
+=========================== currentResult: (July,,,63,2)
+=========================== previousResult: (July,Category1,Tablet,32,1)
+
+=========================== currentResult: (August,,,92,3)
+=========================== previousResult: (August,Category2,Jeans,38,1)
+
+=========================== currentResult: (August,,,130,4)
+=========================== previousResult: (August,Category3,Bat,20,1)
+
+=========================== currentResult: (June,,,136,4)
+=========================== previousResult: (June,Category1,Watch,45,1)
+
+=========================== currentResult: (August,,,150,5)
+=========================== previousResult: (August,Category1,RAM,31,1)
+
+=========================== currentResult: (August,,,181,6)
+=========================== previousResult: (August,Category3,Shoes,42,1)
+
+=========================== currentResult: (June,,,181,5)
+=========================== previousResult: (June,Category1,Shirt,10,1)
+
+=========================== currentResult: (July,,,95,3)
+=========================== previousResult: (July,Category3,Steamer,27,1)
+
+=========================== currentResult: (August,,,223,7)
+=========================== previousResult: (August,Category4,Laptop,26,1)
+
+=========================== currentResult: (August,,,249,8)
+=========================== previousResult: (August,Category4,Laptop,31,1)
+
+=========================== currentResult: (July,,,122,4)
+=========================== previousResult: (July,Category5,RAM,43,1)
+
+=========================== currentResult: (July,,,165,5)
+=========================== previousResult: (July,Category5,PC,44,1)
+
+=========================== currentResult: (June,,,191,6)
+=========================== previousResult: (June,Category3,Laptop,11,1)
+
+=========================== currentResult: (June,,,202,7)
+=========================== previousResult: (June,Category2,Pendrive,14,1)
+
+=========================== currentResult: (July,,,209,6)
+=========================== previousResult: (July,Category1,Mouse,26,1)
+
+=========================== currentResult: (June,,,216,8)
+=========================== previousResult: (June,Category4,PC,16,1)
+
+=========================== currentResult: (June,,,232,9)
+=========================== previousResult: (June,Category3,Shirt,32,1)
+
+=========================== currentResult: (July,,,235,7)
+=========================== previousResult: (July,Category5,Mouse,29,1)
+
+=========================== currentResult: (July,,,264,8)
+=========================== previousResult: (July,Category3,Socks,37,1)
+
+=========================== currentResult: (July,,,301,9)
+=========================== previousResult: (July,Category3,Phone,21,1)
+
+=========================== currentResult: (July,,,322,10)
+=========================== previousResult: (July,Category2,Perfume,25,1)
+
+=========================== currentResult: (July,,,347,11)
+=========================== previousResult: (July,Category5,Perfume,42,1)
+
+=========================== currentResult: (August,,,280,9)
+=========================== previousResult: (August,Category2,Steamer,14,1)
+
+=========================== currentResult: (August,,,294,10)
+=========================== previousResult: (August,Category1,Pendrive,46,1)
+
+=========================== currentResult: (June,,,264,10)
+=========================== previousResult: (June,Category2,Television,40,1)
+
+=========================== currentResult: (June,,,304,11)
+=========================== previousResult: (June,Category1,Watch,11,1)
+
+=========================== currentResult: (June,,,315,12)
+=========================== previousResult: (June,Category1,PC,24,1)
+
+=========================== currentResult: (July,,,389,12)
+=========================== previousResult: (July,Category4,Steamer,26,1)
+
+=========================== currentResult: (July,,,415,13)
+=========================== previousResult: (July,Category2,RAM,43,1)
+
+=========================== currentResult: (July,,,458,14)
+=========================== previousResult: (July,Category2,Bottle,42,1)
+
+=========================== currentResult: (July,,,500,15)
+=========================== previousResult: (July,Category5,Shoes,34,1)
+
+1> (August,,,340,11)
+1> (June,,,339,13)
+4> (July,,,534,16)
+=========================== currentResult: (June,Category5,Jeans,46,1)
+=========================== previousResult: (June,Category2,Tablet,21,1)
+
+=========================== currentResult: (July,Category5,Watch,38,1)
+=========================== previousResult: (July,Category4,Bottle,34,1)
+
+=========================== currentResult: (July,,,72,2)
+=========================== previousResult: (July,Category5,Phone,33,1)
+
+=========================== currentResult: (July,,,105,3)
+=========================== previousResult: (July,Category3,Jeans,48,1)
+
+=========================== currentResult: (August,Category2,Bat,50,1)
+=========================== previousResult: (August,Category4,Shoes,11,1)
+
+=========================== currentResult: (July,,,153,4)
+=========================== previousResult: (July,Category5,Watch,44,1)
+
+=========================== currentResult: (July,,,197,5)
+=========================== previousResult: (July,Category2,Jeans,13,1)
+
+=========================== currentResult: (July,,,210,6)
+=========================== previousResult: (July,Category2,Television,34,1)
+
+=========================== currentResult: (July,,,244,7)
+=========================== previousResult: (July,Category5,Steamer,36,1)
+
+=========================== currentResult: (July,,,280,8)
+=========================== previousResult: (July,Category3,Bottle,29,1)
+
+=========================== currentResult: (August,,,61,2)
+=========================== previousResult: (August,Category5,RAM,46,1)
+
+=========================== currentResult: (July,,,309,9)
+=========================== previousResult: (July,Category5,RAM,33,1)
+
+=========================== currentResult: (June,,,67,2)
+=========================== previousResult: (June,Category4,Shirt,46,1)
+
+=========================== currentResult: (June,,,113,3)
+=========================== previousResult: (June,Category4,Pendrive,34,1)
+
+=========================== currentResult: (June,,,147,4)
+=========================== previousResult: (June,Category4,Shirt,43,1)
+
+=========================== currentResult: (June,,,190,5)
+=========================== previousResult: (June,Category5,Socks,43,1)
+
+=========================== currentResult: (August,,,107,3)
+=========================== previousResult: (August,Category1,Steamer,50,1)
+
+=========================== currentResult: (July,,,342,10)
+=========================== previousResult: (July,Category4,Phone,13,1)
+
+=========================== currentResult: (August,,,157,4)
+=========================== previousResult: (August,Category5,Television,41,1)
+
+=========================== currentResult: (August,,,198,5)
+=========================== previousResult: (August,Category3,Phone,21,1)
+
+=========================== currentResult: (July,,,355,11)
+=========================== previousResult: (July,Category2,Laptop,21,1)
+
+=========================== currentResult: (August,,,219,6)
+=========================== previousResult: (August,Category1,Tablet,26,1)
+
+=========================== currentResult: (August,,,245,7)
+=========================== previousResult: (August,Category2,Tablet,48,1)
+
+=========================== currentResult: (June,,,233,6)
+=========================== previousResult: (June,Category4,PC,43,1)
+
+=========================== currentResult: (June,,,276,7)
+=========================== previousResult: (June,Category1,Bottle,35,1)
+
+=========================== currentResult: (July,,,376,12)
+=========================== previousResult: (July,Category2,Jewelry,31,1)
+
+=========================== currentResult: (June,,,311,8)
+=========================== previousResult: (June,Category4,Socks,13,1)
+
+=========================== currentResult: (August,,,293,8)
+=========================== previousResult: (August,Category5,Bucket,28,1)
+
+=========================== currentResult: (July,,,407,13)
+=========================== previousResult: (July,Category2,Jeans,19,1)
+
+=========================== currentResult: (August,,,321,9)
+=========================== previousResult: (August,Category2,Shirt,38,1)
+
+=========================== currentResult: (August,,,359,10)
+=========================== previousResult: (August,Category4,Shoes,32,1)
+
+=========================== currentResult: (July,,,426,14)
+=========================== previousResult: (July,Category4,Perfume,10,1)
+
+=========================== currentResult: (July,,,436,15)
+=========================== previousResult: (July,Category3,Phone,50,1)
+
+=========================== currentResult: (July,,,486,16)
+=========================== previousResult: (July,Category2,Pendrive,18,1)
+
+=========================== currentResult: (July,,,504,17)
+=========================== previousResult: (July,Category4,Shirt,38,1)
+
+=========================== currentResult: (August,,,391,11)
+=========================== previousResult: (August,Category2,Jewelry,43,1)
+
+=========================== currentResult: (June,,,324,9)
+=========================== previousResult: (June,Category1,PC,22,1)
+
+4> (July,,,542,18)
+1> (June,,,346,10)
+1> (August,,,434,12)
+=========================== currentResult: (June,Category3,Pendrive,40,1)
+=========================== previousResult: (June,Category3,Bat,42,1)
+
+=========================== currentResult: (August,Category5,Bucket,33,1)
+=========================== previousResult: (August,Category5,Phone,26,1)
+
+=========================== currentResult: (June,,,82,2)
+=========================== previousResult: (June,Category3,RAM,11,1)
+
+=========================== currentResult: (June,,,93,3)
+=========================== previousResult: (June,Category3,Jewelry,47,1)
+
+=========================== currentResult: (July,Category2,Phone,17,1)
+=========================== previousResult: (July,Category2,Pendrive,37,1)
+
+=========================== currentResult: (August,,,59,2)
+=========================== previousResult: (August,Category1,Phone,43,1)
+
+=========================== currentResult: (August,,,102,3)
+=========================== previousResult: (August,Category1,Television,47,1)
+
+=========================== currentResult: (July,,,54,2)
+=========================== previousResult: (July,Category2,Television,20,1)
+
+=========================== currentResult: (June,,,140,4)
+=========================== previousResult: (June,Category4,Shoes,50,1)
+
+=========================== currentResult: (August,,,149,4)
+=========================== previousResult: (August,Category1,Bottle,47,1)
