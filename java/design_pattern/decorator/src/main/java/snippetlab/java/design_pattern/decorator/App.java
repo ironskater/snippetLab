@@ -8,7 +8,7 @@ package snippetlab.java.design_pattern.decorator;
  * This pattern creates a decorator class which wraps the original class and
  * provides additional functionality keeping class methods signature intact.
  *
- * https://www.tutorialspoint.com/design_pattern/composite_pattern.htm
+ * https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
  */
 public class App
 {
